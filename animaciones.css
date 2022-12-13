@@ -1,0 +1,17 @@
+
+.btn-modern {
+    background-color: darkslategrey;
+    color: aqua;
+    border:none;
+    padding: 15px 10px;
+    border-radius: 10px; 
+    transition: all 0.4s;   
+}
+
+.btn-modern:hover {
+    border-bottom: 2px solid darkorchid;
+    background-color:black;
+    color:white; 
+    transform: translateY(-5px);
+}
+
